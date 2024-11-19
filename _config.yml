@@ -7,7 +7,7 @@ title: The Book Knight
 description: Portfolio powered by Jekyll
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
-baseurl: "/"
+baseurl: ""
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
@@ -126,3 +126,5 @@ exclude:
     "package.json",
     "vendor"
   ]
+
+github: [metadata]
