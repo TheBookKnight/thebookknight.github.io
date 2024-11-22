@@ -13,21 +13,24 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: project X
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: Novel Design of Stabilizing Device For Tube Thoracostomy
+  descr: "Our work presents the design of a novel device that secures a chest tube in place without the use of sutures, thus removing the issues associated with its usage, such as skin necrosis, tube dislodgement, and unpleasant scarring. The device is also faster to implement than sutures and eliminates the need for daily management. Finally, the design more effectively facilitates an airtight tube removal and can be left on after removal of the tube to ensure proper healing of the incision site. A prototype was 3D-printed and underwent preliminary testing to assess the design."
+  demo: https://asmedigitalcollection.asme.org/BIOMED/proceedings/DMD2018/40789/V001T07A012/271897
   tags:
-    - tag: MongoDB
-    - tag: Express
-    - tag: AngularJS
-    - tag: Node
+    - tag: SolidWorks
 
-- name: project Y
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: Saint Anonymous
+  descr: "Created a Discord bot for the Catholic group, Our Lady of Angels Young Adults group. Features:
+            <ol>
+              <li>Submit anonymous prayer requests and praises with GIFs</li>
+              <li>Plays Music via Youtube URL in a Voice Channel</li>
+              <li>Assigns roles to praying the Rosary </p>
+              </li>"
+  demo: https://github.com/TheBookKnight/Saint-Anonymous
   tags:
-    - tag: Python
-    - tag: Django
+    - tag: JavaScript
+    - tag: NodeJS
+    - tag: Docker
 
-- name: project Z
-  descr: "You can also set a project without demo link and no tags"
+# - name: project Z
+#   descr: "You can also set a project without demo link and no tags"
