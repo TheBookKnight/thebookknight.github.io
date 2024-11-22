@@ -17,45 +17,90 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+- title: business insider
+  title-url: https://www.businessinsider.com/
+  date: August 2020 - Present
+  subtitle: Test Engineer
   tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
+    - tag: TypeScript
+    - tag: JavaScript
+    - tag: NodeJS
+    - tag: Playwright
+    - tag: Detox
+    - tag: Postman
+    - tag: Github Actions
   timeline-side: right
 
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
+- title: NBCUniversal Media
+  title-url: https://www.nbc.com/
+  date: April 2020 - July 2020
+  subtitle: Software Test Engineer (via Cognizant)
   tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
+    - tag: Telnet
+    - tag: Charles Proxy
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
-  timeline-side: left
-
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
+- title: ViacomCBS
+  title-url: https://www.paramount.com/
+  date: May 2019 - April 2020
+  subtitle: Software Test Engineer (via Cognizant)
   tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+    - tag: Selenium
+    - tag: TestNG
+    - tag: MySQL
+    - tag: Maven
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
+- title: AT&T
+  title-url: https://www.att.com/
+  date: September 2018 - April 2019
+  subtitle: Software Development Engineer in Test (via Cognizant)
+  tags:
+    - tag: Maven
+    - tag: JUnit
+    - tag: Apache Groovy
+    - tag: SoapUI
+    - tag: Cucumber
+    - tag: Jenkins
+    - tag: Pact
+  timeline-side: right
+
+- title: Earl E. Bakken Medical Device Center, UMN
+  title-url: https://bmdc.umn.edu
+  date: February 2015 - December 2017
+  subtitle: Medical Device Lab and Engineering Intern / Android Developer Intern
+  tags:
+    - tag: Android Studio
+    - tag: Java
+    - tag: OpenCV
+    - tag: Arduino
+    - tag: C++
+    - tag: SolidWorks
+  timeline-side: right
+
+- title: Earl E. Bakken Medical Device Center, UMN
+  title-url: https://bmdc.umn.edu
+  date: February 2015 - December 2017
+  subtitle: Medical Device Lab and Engineering Intern / Android Developer Intern
+  tags:
+    - tag: Android Studio
+    - tag: Java
+    - tag: OpenCV
+    - tag: Arduino
+    - tag: C++
+    - tag: SolidWorks
+  timeline-side: right
+
+- title: Krook-Magnuson Lab
+  title-url: 
+  date: March 2016 - March 2017
+  subtitle: Intern
+  tags:
+    - tag: Matlab
+  timeline-side: right
+
+- title: University of Minnesota - Twin Cities
+  title-url: https://twin-cities.umn.edu/
   date: 2014 - 2017
-  subtitle: B.A. Computer Science
+  subtitle: B.E. Biomedical Engineering, Minor in Computer Science
   timeline-side: left
