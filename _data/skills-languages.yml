@@ -22,3 +22,9 @@
 
 - name: YML
   weight: 3
+
+- name: SQL
+  weight: 2
+
+- name: Python
+  weight: 2

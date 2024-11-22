@@ -19,3 +19,6 @@
 
 - name: NodeJS
   weight: 3
+
+- name: Detox
+  weight: 2
