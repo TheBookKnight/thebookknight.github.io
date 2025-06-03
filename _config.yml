@@ -13,7 +13,7 @@ baseurl: ""
 # username: This will displayed on the landing page as your name.
 username: Joshua Cadavez
 # typing_text: This will be typed before 'scroll down for more'.
-typing_text: Software Test Engineer
+typing_text: a Test Engineer
 # email: Your E-Mail address for the email button.
 email: joshua.cadavez@outlook.com
 # For every social button you want to display, set your username or userid
@@ -22,9 +22,12 @@ email: joshua.cadavez@outlook.com
 github_username: thebookknight
 codepen_username: 
 dev_username: 
-linkedin_username: 
-twitter_username: https://x.com/JoshuaCadavez
-blog_url: https://thebookknight.github.io/blog/
+linkedin_username: joshuacadavez
+twitter_username: 
+blog_url: 
+## TODO: Comment out until Blog is more fully developed
+# twitter_username: JoshuaCadavez
+# blog_url: https://thebookknight.github.io/blog/
 
 # ABOUT ME SECTION
 # show_aboutme_card:
@@ -34,7 +37,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: I'm a Test Engineer who enjoys exploring software technologies, athletic challenges, and chess. Ocassionally, I take on projects outside my area of expertise for fun. Learn more about my skill stack in <a class="highlight-link" href="https://www.linkedin.com/in/joshuacadavez/" target="_blank" rel="noreferrer"> my LinkedIn portfolio </a>. You can also find my lectures on <a class="highlight-link" href="https://www.youtube.com/@JoshuaCadavez" target="_blank" rel="noreferrer">my YouTube channel</a>.
+about_me_description: I'm a Senior Test Engineer with 6+ years of experience building and leading test automation strategies across web, mobile, and API platforms. I've worked with tools like Playwright, Cypress, Selenium, and CI/CD systems such as GitHub Actions and Jenkins to scale test coverage, optimize workflow and test runtimes, and establish consistent design patterns across test suites. <br/><br/>Over the years, I've contributed to testing frameworks that streamlined QA for 200+ microservices, evaluated mobile automation strategies for React Native apps, and mentored junior engineers in automation best practices. I enjoy building systems that make testing easier, faster, and more reliable — not just for QA, but for everyone shipping software. <br/><br/>Outside of work, I occasionally tinker with side projects, like building Discord bots for my local Catholic young adult community or exploring new tools in mobile development. I believe in continuous learning, clear communication, and software that improves lives — whether it's news delivery at scale or a simple prayer bot. <br/><br/>Let's connect if you're looking for someone who can lead test strategy, elevate QA culture, or collaborate deeply across product, engineering, and DevOps teams.
 
 # SKILLS SECTION
 # show_skills_card:
@@ -81,7 +84,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: If you have any fun project suggestions, feel free to message me at <a class="highlight-link" href="https://www.linkedin.com/in/joshuacadavez" target="_blank" rel="noreferrer"> LinkedIn </a>!
+contact_description: If you have any fun project suggestions, then message me at <a class="highlight-link" href="https://www.linkedin.com/in/joshuacadavez" target="_blank" rel="noreferrer"> LinkedIn </a>!
 
 # GITHUB-METADATA
 # Set this to your forked repository
