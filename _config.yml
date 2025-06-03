@@ -22,9 +22,10 @@ email: joshua.cadavez@outlook.com
 github_username: thebookknight
 codepen_username: 
 dev_username: 
-linkedin_username: 
-twitter_username: https://x.com/JoshuaCadavez
-blog_url: https://thebookknight.github.io/blog/
+linkedin_username: joshuacadavez
+## TODO: Comment out until Blog is more fully developed
+# twitter_username: JoshuaCadavez
+# blog_url: https://thebookknight.github.io/blog/
 
 # ABOUT ME SECTION
 # show_aboutme_card:
@@ -81,7 +82,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: If you have any fun project suggestions, feel free to message me at <a class="highlight-link" href="https://www.linkedin.com/in/joshuacadavez" target="_blank" rel="noreferrer"> LinkedIn </a>!
+contact_description: If you have any fun project suggestions, then message me at <a class="highlight-link" href="https://www.linkedin.com/in/joshuacadavez" target="_blank" rel="noreferrer"> LinkedIn </a>!
 
 # GITHUB-METADATA
 # Set this to your forked repository
