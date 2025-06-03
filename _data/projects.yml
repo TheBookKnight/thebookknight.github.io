@@ -13,9 +13,9 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: Novel Design of Stabilizing Device For Tube Thoracostomy
+- name: Anchoring devices for implanted tubes and related methods
   descr: "Our work presents the design of a novel device that secures a chest tube in place without the use of sutures, thus removing the issues associated with its usage, such as skin necrosis, tube dislodgement, and unpleasant scarring. The device is also faster to implement than sutures and eliminates the need for daily management. Finally, the design more effectively facilitates an airtight tube removal and can be left on after removal of the tube to ensure proper healing of the incision site. A prototype was 3D-printed and underwent preliminary testing to assess the design."
-  demo: https://asmedigitalcollection.asme.org/BIOMED/proceedings/DMD2018/40789/V001T07A012/271897
+  demo: https://patents.google.com/patent/WO2019199829A1/en?oq=WO2019199829
   tags:
     - tag: SolidWorks
 
